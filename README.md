@@ -722,7 +722,6 @@ Wichtig hierbei ist, – und das kann gar nicht oft genug betont werden – sich
 Fragen Sie sich, in welcher Art und Weise Gruppenarbeit in Ihrer Lehrveranstaltung zur Erreichung der Ziele beitragen kann und soll und wie Sie die Studierenden dabei unterstützen wollen oder sogar müssen.
 Auf unserem [Poster](https://www.dip-it.ovgu.de/dipit_media/Pr%C3%A4sentationen+und+Materialien/Poster+Anleitung+Teamarbeit.pdf) zum Ausdrucken finden Sie die Schritte der didaktischen Planung noch einmal kurz und knapp visualisiert.
 
-
 ### Lizenz und Kontakt
 
 Der digitale Wegweiser zur didaktischen Planung studentischer Teamarbeit in Lehrveranstaltungen der Informatik entstand im Rahmen des Projekt DiP-iT: Digitales Programmieren im Team.
