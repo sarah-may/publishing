@@ -14,6 +14,8 @@ narrator: Deutsch Female
 
 comment:  Digitaler Wegweiser zur didaktischen Planung studentischer Teamarbeit in Lehrveranstaltungen der Informatik.
 
+link: https://fonts.google.com/noto/specimen/Noto+Sans+Display
+
 -->
 
 # Digitaler Wegweiser: Didaktische Planung studentischer Teamarbeit in Lehrveranstaltungen der Informatik ODER Wie kann ich studentische Teamarbeit gut in meine Lehre integrieren?
