@@ -14,7 +14,9 @@ narrator: Deutsch Female
 
 comment:  Digitaler Wegweiser zur didaktischen Planung studentischer Teamarbeit in Lehrveranstaltungen der Informatik.
 
-link: https://fonts.googleapis.com/css2?family=Narnoor&display=swap
+link:     https://fonts.googleapis.com/css2?family=Crimson+Pro
+
+font:     Crimson Pro
 
 -->
 
