@@ -171,7 +171,7 @@ Welche Rahmenbedingungen sind hinsichtlich der Integration von Teamarbeit vorgeg
 
 #### 2.1 Rahmenbedingungen am konkreten Beispiel 
 
-![Test](img/Test.png)
+![Test](img/Beispiel_Ikons.png)
 Aus den Rahmenbedingungen ergeben sich für unser konkretes Beispiel Einschränkungen hinsichtlich der Prüfungsleistung.
 Laut Prüfungsordnung[^3] sind mündliche Prüfungen, Klausuren und alternative Prüfungsleistungen möglich.
 Letztere ermöglichen auch protokollierte praktische Leistungen, d.h. Prüfungsleistungen wie Programmierprojekte wären auf dieser Basis möglich.
